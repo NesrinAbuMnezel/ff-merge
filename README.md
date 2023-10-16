@@ -24,9 +24,10 @@ You again live in your own branch, this time we will be doing a bit of juggling 
 11. Merge the branches
 12. Use `cat` to see the contents of the greetings
 13. Delete the uppercase branch
-![2q1](https://github.com/NesrinAbuMnezel/ff-merge/assets/95749191/3e7bf9ae-1eb2-4223-adb4-59b7cb155380)
+    
+ ![2q1](https://github.com/NesrinAbuMnezel/ff-merge/assets/95749191/3e7bf9ae-1eb2-4223-adb4-59b7cb155380)
 
-![2q2](https://github.com/NesrinAbuMnezel/ff-merge/assets/95749191/97157536-15b6-4c9d-9d6a-a319cd53fa89)
+ ![2q2](https://github.com/NesrinAbuMnezel/ff-merge/assets/95749191/97157536-15b6-4c9d-9d6a-a319cd53fa89)
 
 ## Useful commands
 
